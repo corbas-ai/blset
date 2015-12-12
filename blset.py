@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
+""" xbacklight graphical launcher """
 
 import sys
 from tkinter import *
